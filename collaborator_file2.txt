@@ -1,1 +1,2 @@
-﻿Еще раз привет от соавтора (edaragan)! Это мой второй файл.
+﻿Ссылка но мой проект в гитхабе:
+https://github.com/esdivnich/team-project-task
